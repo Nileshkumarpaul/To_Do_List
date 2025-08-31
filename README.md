@@ -54,6 +54,17 @@ Try it here: [To-Do List App](https://nileshkumarpaul.github.io/To_Do_List/)
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
+---
+
+## 📸 Screenshots
+
+### 🟢 Light Mode
+![Light Mode](assets/screenshot2.png.png)
+
+### 🌙 Dark Mode
+![Dark Mode](assets/screenshot1.png.png)
+
+
 ## 📜 License
 
 This project is licensed under the MIT License – feel free to use and modify it.
